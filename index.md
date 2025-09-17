@@ -9,3 +9,8 @@ def greet(name):
     return f"Hello, {name}!"
 
 print(greet("GitHub"))
+``` 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
